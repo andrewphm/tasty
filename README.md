@@ -1,8 +1,10 @@
 # Tasty Restaurant Mockup Page
 
 ## Features
-- 
-- 
+- Light/Dark mode
+- Custom CSS variables
+-
+-
 
 
 ## Resources
