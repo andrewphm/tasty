@@ -62,7 +62,7 @@ window.addEventListener('scroll', scrollHeader);
 /* ========== SHOW SCROLL TOP ======== */
 // When the scroll is greater than 560 vh, add the show-scroll class to the div with class scrolltop
 const scrollTop = () => {
-    const scrollTop = doucment.getElementById('scroll-top')
+    const scrollTop = document.getElementById('scroll-top')
 
     if(window.scrollY >= 560) {
         scrollTop.classList.add('scroll-top')
