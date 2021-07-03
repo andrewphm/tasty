@@ -2,10 +2,12 @@
 A fully responsive restaurant website. Built mobile first. 
 
 ## Features
-- Light/Dark mode
+- Light/Dark themes. User theme saved on local storage.
 - Custom CSS variables
 - SVGs
-- 
+- Scroll reveal animations
+- CSS Grid & Flex
+- Fully responsive, mobile first. 
 
 ## Resources
 - Images: https://www.foodiesfeed.com/
