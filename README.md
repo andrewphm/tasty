@@ -14,4 +14,4 @@ A fully responsive restaurant website. Built mobile first.
 - Icons: https://boxicons.com/
 - Fonts: https://fonts.google.com/specimen/Poppins?query=poppins
 
-[Click here to demo](https://www.andrewpham.ca/tasty)
+[Click here to demo](https://andrewpham.ca/tasty)
