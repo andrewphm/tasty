@@ -1,9 +1,10 @@
 # Tasty Restaurant Mockup Page
+A fully responsive restaurant website. Built mobile first. 
 
 ## Features
 - Light/Dark mode
 - Custom CSS variables
-- 
+- SVGs
 - 
 
 ## Resources
